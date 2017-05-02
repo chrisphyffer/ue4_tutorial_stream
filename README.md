@@ -1,11 +1,8 @@
-Unreal Engine 4 - Demo Character
-=================================
-(Amethyst from Steven Universe)
---------------------------------
+**Unreal Engine 4 - Demo Character (Amethyst from Steven Universe)**
 
-Modeled and Developed By Chris Phyffer 2016
-Steven Universe (c) Cartoon Network/Rebecca Sugar
-Unreal Engine 4 (c) Epic games
+* Modeled and Developed By Chris Phyffer 2016
+* Steven Universe (c) Cartoon Network/Rebecca Sugar
+* Unreal Engine 4 (c) Epic games
 
 **In no way does this repo serve as an endorsement or even a promotion of Epic Games Inc. or any of it's products.**
 
