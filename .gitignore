@@ -1,0 +1,10 @@
+/Content/StarterContent
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+*.sln
+*.sdf
+*.suo
+/.DS_Store
